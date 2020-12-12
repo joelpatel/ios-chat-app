@@ -16,3 +16,6 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * How to create Segues for navigation.
 * How to make custom .xib files to modify native design components.
 * Using Grand Central Dispatch to queue asynchronous tasks.
+
+
+Warning: Currently the Firebase server is offline due to the revised terms and conditions of Firebase.
